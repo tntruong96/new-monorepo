@@ -1,0 +1,10 @@
+{
+  "name": "@monorepo-starter/button",
+  "version": "1.0.0",
+  "main": "dist/monorepo-starter-button.cjs.js",
+  "module": "dist/monorepo-starter-button.esm.js",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
+}

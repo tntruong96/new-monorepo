@@ -1,0 +1,16 @@
+{
+  "name": "@monorepo-starter/graphql-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  
+  "scripts": {
+    "start": "node ./src"
+  },
+  "dependencies": {
+    "apollo-server": "^2.10.0",
+    "graphql": "^14.6.0",
+    "graphql-tools": "^4.0.6"
+  },
+  "type":"module"
+}
